@@ -6,6 +6,7 @@ Release:	1
 License:	Freeware
 Group:		X11/Amusements
 Source0:	%{name}.tar.bz2
+# Source0-md5:	32f0cd4a257ea21bf709b36ecaa9edd0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 
