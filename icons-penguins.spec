@@ -8,7 +8,6 @@ Group:		X11/Amusements
 Source0:	%{name}.tar.bz2
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix		/usr/X11R6
 
 %description
 Icons with penguins.
