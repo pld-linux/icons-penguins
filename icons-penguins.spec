@@ -1,5 +1,5 @@
 Summary:	Penguin icons
-Summary(pl):	Pingwinowe ikony
+Summary(pl.UTF-8):   Pingwinowe ikony
 Name:		icons-penguins
 Version:	1.0
 Release:	1
@@ -13,8 +13,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Icons with penguins.
 
-%description -l pl
-Ikony z pingwinami w roli g≥Ûwnej.
+%description -l pl.UTF-8
+Ikony z pingwinami w roli g≈Ç√≥wnej.
 
 %prep
 %setup -q -n %{name}
