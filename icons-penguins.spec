@@ -1,5 +1,5 @@
 Summary:	Penguin icons
-Summary(pl.UTF-8):   Pingwinowe ikony
+Summary(pl.UTF-8):	Pingwinowe ikony
 Name:		icons-penguins
 Version:	1.0
 Release:	1
